@@ -1,0 +1,3 @@
+Instead of using Discord, the keys can be sent via HTTP to a web server publically hosting
+this included PHP script. Its not the most secure method, but yenno. It's available in case
+one wants to shy away from Discord entirely.
