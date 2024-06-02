@@ -3,7 +3,7 @@
 This repository houses two files.
 
     rware.py --- The ransomware itself 
-    dcrpt.py ---- The decryptor tool
+    cure.py ---- The decryptor tool
 
 ################
 # How it works #
